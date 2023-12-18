@@ -1,3 +1,2 @@
-*.kt linguist-language=Kotlin
-*.xml linguist-language=XML
-*.gradle linguist-language=Groovy
+# Auto detect text files and perform LF normalization
+* text=auto
